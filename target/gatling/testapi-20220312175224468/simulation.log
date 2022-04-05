@@ -1,0 +1,4 @@
+RUN	simulations.TestAPI	testapi	1647107544468	runtest	3.6.1
+ERROR	get_alerts: Failed to build request: No attribute named 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9' is defined 	1647107547464
+USER	login_test	START	1647107547433
+USER	login_test	END	1647107547472

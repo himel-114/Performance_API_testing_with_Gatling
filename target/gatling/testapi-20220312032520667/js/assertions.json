@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestAPI",
+  "simulationId": "testapi",
+  "start": 1647055520667,
+  "description": "test rapin",
+  "scenarios": ["get user"],
+  "assertions": [
+
+  ]
+}

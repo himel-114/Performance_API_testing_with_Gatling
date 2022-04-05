@@ -1,0 +1,4 @@
+RUN	simulations.TestAPI	testapi	1647078675449	run test	3.6.1
+USER	get user	START	1647078677610
+REQUEST		get user request	1647078677652	1647078678860	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647078678898

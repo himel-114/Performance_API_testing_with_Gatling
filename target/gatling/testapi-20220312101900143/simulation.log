@@ -1,0 +1,301 @@
+RUN	simulations.TestAPI	testapi	1647080340143	run test	3.6.1
+USER	get user	START	1647080341809
+USER	get user	START	1647080341827
+USER	get user	START	1647080341823
+USER	get user	START	1647080341827
+USER	get user	START	1647080341826
+USER	get user	START	1647080341901
+USER	get user	START	1647080341810
+USER	get user	START	1647080341901
+USER	get user	START	1647080341903
+USER	get user	START	1647080341902
+USER	get user	START	1647080341901
+USER	get user	START	1647080341810
+USER	get user	START	1647080341901
+USER	get user	START	1647080341903
+USER	get user	START	1647080341903
+USER	get user	START	1647080341905
+USER	get user	START	1647080341905
+USER	get user	START	1647080341905
+USER	get user	START	1647080341904
+USER	get user	START	1647080341907
+USER	get user	START	1647080341824
+USER	get user	START	1647080341905
+USER	get user	START	1647080341907
+USER	get user	START	1647080341908
+USER	get user	START	1647080341909
+USER	get user	START	1647080341909
+USER	get user	START	1647080341907
+USER	get user	START	1647080341911
+USER	get user	START	1647080341911
+USER	get user	START	1647080341909
+USER	get user	START	1647080341912
+USER	get user	START	1647080341908
+USER	get user	START	1647080341913
+USER	get user	START	1647080341915
+USER	get user	START	1647080341909
+USER	get user	START	1647080341914
+USER	get user	START	1647080341916
+USER	get user	START	1647080341913
+USER	get user	START	1647080341918
+USER	get user	START	1647080341919
+USER	get user	START	1647080341916
+USER	get user	START	1647080341916
+USER	get user	START	1647080341918
+USER	get user	START	1647080341931
+USER	get user	START	1647080341933
+USER	get user	START	1647080341935
+USER	get user	START	1647080341938
+USER	get user	START	1647080341908
+USER	get user	START	1647080341943
+USER	get user	START	1647080341921
+USER	get user	START	1647080341946
+USER	get user	START	1647080341921
+USER	get user	START	1647080341948
+USER	get user	START	1647080341952
+USER	get user	START	1647080341933
+USER	get user	START	1647080341925
+USER	get user	START	1647080341955
+USER	get user	START	1647080341955
+USER	get user	START	1647080341958
+USER	get user	START	1647080341946
+USER	get user	START	1647080341964
+USER	get user	START	1647080341959
+USER	get user	START	1647080341968
+USER	get user	START	1647080341968
+USER	get user	START	1647080341970
+USER	get user	START	1647080341921
+USER	get user	START	1647080341929
+USER	get user	START	1647080341976
+USER	get user	START	1647080341979
+USER	get user	START	1647080341985
+USER	get user	START	1647080341987
+USER	get user	START	1647080341992
+USER	get user	START	1647080341975
+USER	get user	START	1647080342037
+USER	get user	START	1647080341940
+USER	get user	START	1647080342040
+USER	get user	START	1647080342041
+USER	get user	START	1647080342047
+USER	get user	START	1647080342053
+USER	get user	START	1647080341962
+USER	get user	START	1647080341953
+USER	get user	START	1647080342063
+USER	get user	START	1647080342065
+USER	get user	START	1647080341969
+USER	get user	START	1647080342079
+USER	get user	START	1647080342091
+USER	get user	START	1647080342075
+USER	get user	START	1647080342119
+USER	get user	START	1647080342125
+USER	get user	START	1647080342131
+USER	get user	START	1647080341952
+USER	get user	START	1647080342170
+USER	get user	START	1647080342175
+USER	get user	START	1647080342181
+USER	get user	START	1647080342189
+USER	get user	START	1647080342186
+USER	get user	START	1647080342192
+USER	get user	START	1647080342217
+USER	get user	START	1647080342220
+USER	get user	START	1647080342223
+REQUEST		get user request	1647080341920	1647080343300	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341908	1647080343277	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341952	1647080343289	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341971	1647080343369	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341978	1647080343284	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342126	1647080343335	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341904	1647080343346	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341888	1647080343409	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341917	1647080343411	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341912	1647080343412	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341907	1647080343414	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341950	1647080343414	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342172	1647080343437	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341944	1647080343441	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342091	1647080343442	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342065	1647080343448	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342038	1647080343445	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341906	1647080343447	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341959	1647080343452	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341888	1647080343444	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341956	1647080343457	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341952	1647080343459	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342063	1647080343446	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341912	1647080343455	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341905	1647080343461	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341968	1647080343465	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342188	1647080343465	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341945	1647080343468	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341936	1647080343464	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341903	1647080343463	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341954	1647080343465	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341902	1647080343473	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342092	1647080343473	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341906	1647080343287	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342218	1647080343521	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341947	1647080343547	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341889	1647080343550	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341903	1647080343556	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341915	1647080343562	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342081	1647080343570	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341965	1647080343597	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342177	1647080343607	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341947	1647080343619	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342182	1647080343623	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341907	1647080343625	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341902	1647080343630	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341914	1647080343632	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341949	1647080343637	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341963	1647080343643	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341889	1647080343647	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342133	1647080343650	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342063	1647080343658	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341955	1647080343662	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341931	1647080343665	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341908	1647080343666	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343407
+USER	get user	END	1647080343407
+USER	get user	END	1647080343407
+USER	get user	END	1647080343407
+USER	get user	END	1647080343407
+USER	get user	END	1647080343407
+USER	get user	END	1647080343407
+USER	get user	END	1647080343412
+USER	get user	END	1647080343413
+USER	get user	END	1647080343414
+USER	get user	END	1647080343436
+USER	get user	END	1647080343439
+USER	get user	END	1647080343439
+USER	get user	END	1647080343443
+USER	get user	END	1647080343444
+USER	get user	END	1647080343450
+USER	get user	END	1647080343452
+USER	get user	END	1647080343454
+USER	get user	END	1647080343455
+USER	get user	END	1647080343457
+USER	get user	END	1647080343459
+USER	get user	END	1647080343460
+USER	get user	END	1647080343462
+USER	get user	END	1647080343463
+USER	get user	END	1647080343467
+USER	get user	END	1647080343469
+USER	get user	END	1647080343470
+USER	get user	END	1647080343472
+USER	get user	END	1647080343473
+USER	get user	END	1647080343474
+USER	get user	END	1647080343475
+USER	get user	END	1647080343476
+USER	get user	END	1647080343548
+USER	get user	END	1647080343549
+USER	get user	END	1647080343553
+USER	get user	END	1647080343560
+USER	get user	END	1647080343564
+USER	get user	END	1647080343593
+USER	get user	END	1647080343602
+USER	get user	END	1647080343613
+REQUEST		get user request	1647080342060	1647080343672	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341971	1647080343415	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341909	1647080343674	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341906	1647080343676	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341919	1647080343677	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341977	1647080343678	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341887	1647080343679	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341915	1647080343681	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341903	1647080343550	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341887	1647080343683	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342220	1647080343685	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343622
+USER	get user	END	1647080343625
+REQUEST		get user request	1647080342122	1647080343690	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341909	1647080343693	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341971	1647080343693	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341916	1647080343695	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341992	1647080343681	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341901	1647080343696	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342047	1647080343697	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342041	1647080343698	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341889	1647080343698	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341920	1647080343700	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341903	1647080343701	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341989	1647080343702	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342038	1647080343687	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341979	1647080343705	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341910	1647080343707	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341914	1647080343709	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341960	1647080343687	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341985	1647080343711	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342193	1647080343712	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343628
+USER	get user	END	1647080343631
+USER	get user	END	1647080343636
+USER	get user	END	1647080343639
+USER	get user	END	1647080343642
+USER	get user	END	1647080343645
+USER	get user	END	1647080343649
+USER	get user	END	1647080343654
+USER	get user	END	1647080343660
+USER	get user	END	1647080343664
+USER	get user	END	1647080343666
+USER	get user	END	1647080343674
+USER	get user	END	1647080343675
+USER	get user	END	1647080343676
+USER	get user	END	1647080343678
+USER	get user	END	1647080343679
+USER	get user	END	1647080343680
+USER	get user	END	1647080343681
+USER	get user	END	1647080343682
+REQUEST		get user request	1647080341910	1647080343703	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341910	1647080343717	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342056	1647080343719	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341932	1647080343721	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343683
+REQUEST		get user request	1647080341887	1647080343718	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343685
+USER	get user	END	1647080343686
+USER	get user	END	1647080343687
+USER	get user	END	1647080343692
+USER	get user	END	1647080343692
+USER	get user	END	1647080343694
+USER	get user	END	1647080343694
+USER	get user	END	1647080343696
+REQUEST		get user request	1647080341936	1647080343723	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343697
+USER	get user	END	1647080343698
+USER	get user	END	1647080343698
+USER	get user	END	1647080343699
+USER	get user	END	1647080343700
+USER	get user	END	1647080343701
+USER	get user	END	1647080343702
+USER	get user	END	1647080343704
+USER	get user	END	1647080343706
+USER	get user	END	1647080343706
+USER	get user	END	1647080343708
+USER	get user	END	1647080343710
+USER	get user	END	1647080343711
+USER	get user	END	1647080343713
+USER	get user	END	1647080343715
+USER	get user	END	1647080343717
+USER	get user	END	1647080343719
+USER	get user	END	1647080343721
+USER	get user	END	1647080343722
+USER	get user	END	1647080343726
+USER	get user	END	1647080343729
+REQUEST		get user request	1647080342223	1647080343734	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343735
+REQUEST		get user request	1647080341969	1647080343737	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342190	1647080343739	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343739
+USER	get user	END	1647080343741
+REQUEST		get user request	1647080341913	1647080343743	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341933	1647080343746	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341915	1647080343749	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341938	1647080343752	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080341930	1647080343754	KO	status.find.is(200), but actually found 401
+REQUEST		get user request	1647080342041	1647080343757	KO	status.find.is(200), but actually found 401
+USER	get user	END	1647080343745
+USER	get user	END	1647080343748
+USER	get user	END	1647080343751
+USER	get user	END	1647080343753
+USER	get user	END	1647080343756
+USER	get user	END	1647080343758

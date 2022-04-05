@@ -1,0 +1,4 @@
+RUN	simulations.TestAPI	testapi	1647055966652	runtest api	3.6.1
+USER	get user	START	1647055968803
+REQUEST		get user request	1647055968848	1647055972276	OK	 
+USER	get user	END	1647055972301
